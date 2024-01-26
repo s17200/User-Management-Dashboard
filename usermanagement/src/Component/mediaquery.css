@@ -1,0 +1,14 @@
+@media (max-width: 600px) {
+    .chakra-modal {
+      width: 90% !important;
+    }
+
+    .chakra-toast {
+      width: 90% !important;
+    }
+
+    .chakra-table {
+      overflow-x: auto;
+      flex-wrap: wrap;
+    }
+}    
